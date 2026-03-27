@@ -1,1 +1,1 @@
-## Experiment name
+## Demultiplexer using basic logic gates.

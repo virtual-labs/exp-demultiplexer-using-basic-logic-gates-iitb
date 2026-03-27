@@ -1,0 +1,47 @@
+[
+  {
+    "question": "A demultiplexer is a ______________",
+    "qid": 1,
+    "option_a": "data distributor/multi-position switch.",
+    "option_b": "combinational logic circuit.",
+    "option_c": "design alternative to sum-of-product solutions.",
+    "option_d": "All of these",
+    "correct_option": "d"
+  },
+  {
+    "question": "How many select lines are required for a 1:16 demux?",
+    "qid": 2,
+    "option_a": "Two",
+    "option_b": "Four",
+    "option_c": "Five",
+    "option_d": "Eight",
+    "correct_option": "b"
+  },
+  {
+    "question": "Any n-variable truth table can be implemented using a universal logic circuit referred to a demultiplexer. State True or False.",
+    "qid": 3,
+    "option_a": "True",
+    "option_b": "False",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  },
+  {
+    "question": "The enable input in a demultiplexer is also referred to as________",
+    "qid": 4,
+    "option_a": "decode input",
+    "option_b": "strobe input",
+    "option_c": "Select input",
+    "option_d": "All of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "Decoders can be referred to as:",
+    "qid": 5,
+    "option_a": "3:8 convertor",
+    "option_b": "1 of 8 demux",
+    "option_c": "binary to octal decoder",
+    "option_d": "All of these",
+    "correct_option": "d"
+  }
+]
