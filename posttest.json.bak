@@ -1,0 +1,39 @@
+[
+  {
+    "question": "To implement multiple output functions (sum of product type-SOP) using demultiplexer, additional __________type of gates are required.",
+    "qid": 1,
+    "option_a": "AND",
+    "option_b": "OR",
+    "option_c": "NOT",
+    "option_d": "EX-OR",
+    "correct_option": "b"
+  },
+  
+  {
+    "question": "Can 1:4 demux chips be cascaded to build 1:8 demux?",
+    "qid": 2,
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  },
+  {
+    "question": "To implement a full adder, which of the following demux would be preferable?",
+    "qid": 3,
+    "option_a": "1:4",
+    "option_b": "1:8",
+    "option_c": "1:16",
+    "option_d": "1:32",
+    "correct_option": "b"
+  },
+  {
+    "question": "The figure shown below represents____________.",
+    "qid": 4,
+    "option_a": "half adder",
+    "option_b": "full adder",
+    "option_c": "half subtractor",
+    "option_d": "full subtractor",
+    "correct_option": "b"
+  }
+]
